@@ -20,7 +20,6 @@ development:
   debug_mode: false
   mock_apis: false
 #Experiment Application Configuration
-# Production configuration (active)
 features:
   auto_scaling: true
   load_balancer: enabled
